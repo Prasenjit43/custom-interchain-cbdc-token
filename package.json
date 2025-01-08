@@ -1,0 +1,18 @@
+{
+  "name": "custom-interchain-cbdc-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@axelar-network/axelarjs-sdk": "^0.17.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7"
+  }
+}

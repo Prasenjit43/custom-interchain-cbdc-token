@@ -1,0 +1,10 @@
+.deps/npm
+cache
+node_modules
+.env
+token/artifacts
+token/cache
+token/contracts/artifacts
+token/ignition/deployments
+token/node_modules
+token/.env
